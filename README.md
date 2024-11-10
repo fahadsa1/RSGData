@@ -8,7 +8,7 @@ This repository contains performance and environmental data collected over a 6-m
 
 ## Overview
 
-This dataset was gathered from February 7, 2024, to June 13, 2024, and was used to assess link performance under varying weather conditions. The data has been cleaned and processed to support performance evaluation and link availability analysis.
+This dataset was gathered from February 7, 2024, to June 13, 2024, and was used to assess link performance under varying weather conditions. The data has been cleaned and processed to support performance evaluation and link availability analysis. There was a maintance period from 2024-03-03 11:55 to 2024-03-03 16:20
 
 ## Publication
 
